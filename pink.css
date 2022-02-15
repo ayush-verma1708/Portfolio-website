@@ -1,0 +1,23 @@
+:root{
+    --primary-color:#121F26;
+    --black-color:#23343F;
+    --white-color:#EBEFF2;
+}
+body{
+        background: #59717F;
+}
+.home{
+    background-color:#59717F;
+}
+.about{
+    background-color: #59717F;
+}
+.skills{
+    background: #59717F;
+}
+.services{
+    background: #59717F;
+}
+.contact{
+    background: #59717F;
+}
