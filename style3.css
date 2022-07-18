@@ -17,7 +17,6 @@ body *{
 }
 body{
     font-family: 'Poppins', sans-serif;
-    
 }
 /* Custom Scroll Bar css */
 ::-webkit-scrollbar{
@@ -221,10 +220,12 @@ nav.sticky .menu-btn{
     transition: all 0.4s ease;
 }
 .home .button button:hover{
-    border-color: var(--primary-color);
-    background-color: var(--white-color);
+    border-color: var(--black-color);
+    background-color: var(--black-color);
     color: var(--primary-color);
 }
+
+
 /* About Section Styling */
 section{
     padding-top: 40px;
@@ -306,8 +307,8 @@ section .button button{
     transition: all 0.4s ease;
 }
 section .button button:hover{
-    border-color: var(--primary-color);
-    background: var(--white-color);
+    border-color: var(--black-color);
+    background-color: var(--black-color);
     color: var(--primary-color);
 }
 
