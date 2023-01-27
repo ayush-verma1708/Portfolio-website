@@ -25,4 +25,4 @@ I welcome any suggestions or improvements to the website. Please feel free to cr
 
 ## Code of Conduct
 
-All contributors are expected to follow the [code of conduct](https://github.com/yourusername/MyPortfolio/blob/master/CODE_OF_CONDUCT.md).
+All contributors are expected to follow the [code of conduct](https://github.com/ayush-verma1708/Portfolio-website/tree/main/https:/github.com/yourusername/MyPortfolio/blob/master).
