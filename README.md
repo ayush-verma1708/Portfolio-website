@@ -3,8 +3,6 @@
 Welcome to MyPortfolio, my personal portfolio website showcasing my skills, experiences, and projects. The website is built using plain CSS, HTML, and JavaScript.
 
 ## Features
-- Displays my resume and work experience
-- Showcases my projects with screenshots and descriptions
 - Includes a contact form for easy communication
 - Responsive design for optimal viewing on any device
 - Clean and modern design for easy navigation
